@@ -68,7 +68,7 @@ Snake Strategy Battle is an innovative tactical game that transforms the classic
 1. **Clone the repository:**
 
 2. bash
-3. git clone https://github.com/KorsarOfficial/snake-strategy-battle.git
+3. git clone https://github.com/KorsarOfficial/Snake-Strategy-Game
 4. cd snake-strategy-battle
    
 2. **Create and activate virtual environment (recommended):**
